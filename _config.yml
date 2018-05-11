@@ -23,7 +23,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-avatar
 baseurl: ''
-url: https://charcoal-se.org/
+url: https://inspiring-albattani-e456cd.netlify.com/
 permalink: none
 algolia:
   search_key: c63c2f79258f929439376cfb88862440
